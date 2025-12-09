@@ -3,6 +3,3 @@ contact_links:
   - name: Security Issue
     url: mailto:security@koliseo.com
     about: Please report security vulnerabilities privately via email
-  - name: Support Contract Customers
-    url: https://www.koliseo.com/support
-    about: If you have a support contract, please use your designated support channels
