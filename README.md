@@ -22,35 +22,19 @@ This repository is dedicated to tracking issues, bugs, and feature requests from
    - Screenshots or error messages if applicable
    - Browser/device information if relevant
 
-## Issue Labels
+### Issue Types
 
-We use the following labels to organize and track issues:
+We use the following issue types:
 
-### Type Labels
 - **bug** - Something isn't working as expected
 - **feature-request** - Suggestion for new functionality
-- **enhancement** - Improvement to existing functionality
-- **documentation** - Related to documentation
+- **documentation** - Related to missing or incorrect documentation
 - **question** - General questions about the platform
-
-### Status Labels
-- **confirmed** - Issue has been verified by the team
-- **assigned** - Someone is working on this issue
-- **in-progress** - Work is actively being done
-- **solved** - Issue has been resolved
-- **wontfix** - Issue will not be addressed
-- **duplicate** - Issue already exists elsewhere
-- **needs-info** - More information needed from the reporter
-
-### Priority Labels
-- **priority-high** - Critical issue that needs immediate attention
-- **priority-medium** - Important but not critical
-- **priority-low** - Nice to have, lower priority
 
 ## Support
 
 - **Users with support contracts**: Please use your designated support channels
-- **Community support**: For general questions, check our community forums
+- **Community support**: Community support is managed through this repository
 - **Security issues**: Please report security vulnerabilities privately to security@koliseo.com
 
 ## Code of Conduct

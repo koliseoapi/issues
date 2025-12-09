@@ -2,7 +2,7 @@
 name: Feature Request
 about: Suggest a new feature or improvement for Koliseo
 title: '[FEATURE] '
-labels: 'feature-request'
+type: feature
 assignees: ''
 
 ---
@@ -27,5 +27,4 @@ Add any other context, screenshots, mockups, or examples about the feature reque
 - [ ] Attendees
 - [ ] Speakers
 - [ ] Sponsors
-- [ ] Administrators
 - [ ] Other: _______
