@@ -1,6 +1,6 @@
 ---
-name: Question
-about: Ask a question about Koliseo
+name: Documentation
+about: Report something missing or incorrect in help.koliseo.com
 title: '[DOC] '
 type: documentation
 assignees: ''
